@@ -1,0 +1,11 @@
+analysis_split,group,models
+strict_madness_discovery,G1,1350
+strict_madness_discovery,G0,1824
+strict_madness_discovery,UNASSIGNED,5
+strict_madness_evaluation,G1,915
+strict_madness_evaluation,G0,310
+strict_madness_evaluation,UNASSIGNED,5
+ep1b_discovery,EPn2,1558
+ep1b_discovery,EPn1,1621
+ep1b_evaluation,EPn1,645
+ep1b_evaluation,EPn2,585

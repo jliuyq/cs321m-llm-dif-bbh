@@ -1,0 +1,36 @@
+{
+  "full_processed_files": [
+    {
+      "filename": "BBH_responses.csv.gz",
+      "expected_path": "data/processed_bbh/BBH_responses.csv.gz",
+      "source_basename": "BBH_responses.csv.gz",
+      "size_bytes": 72703575,
+      "sha256": "c00eeb1b2eeac321994ecb8f0bb8ee5681689bb34f42769b5dc197bd277397db",
+      "rows": 25376664
+    },
+    {
+      "filename": "BBH_model_metadata.csv.gz",
+      "expected_path": "data/processed_bbh/BBH_model_metadata.csv.gz",
+      "source_basename": "BBH_model_metadata.csv.gz",
+      "size_bytes": 84835,
+      "sha256": "493a6bfded4a6bb8a0f5dd0ad7e725e3e6470b1c797af2680b3a0143b60305a1",
+      "rows": 4409
+    },
+    {
+      "filename": "BBH_item_metadata.csv.gz",
+      "expected_path": "data/processed_bbh/BBH_item_metadata.csv.gz",
+      "source_basename": "BBH_item_metadata.csv.gz",
+      "size_bytes": 530169,
+      "sha256": "06738ad1b75b414f224da5e03916dd06c34a278755ad610649ac2b868375a421",
+      "rows": 5760
+    },
+    {
+      "filename": "BBH_decoded_predictions_main_decodable.csv.gz",
+      "expected_path": "data/processed_bbh/BBH_decoded_predictions_main_decodable.csv.gz",
+      "source_basename": "BBH_decoded_predictions_main_decodable.csv.gz",
+      "size_bytes": 1808839411,
+      "sha256": "870f56045a8419e55403db2a50ce8897172dcda71298d7d6704bb4c284a58590",
+      "rows": 19054197
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+# Exact versions used in the smoke-test/packaging environment.
+numpy==2.4.2
+pandas==3.0.2
+scipy==1.17.1
+matplotlib==3.10.8
